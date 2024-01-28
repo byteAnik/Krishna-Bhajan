@@ -1,0 +1,21 @@
+<resources>
+
+
+
+    <!-- Base application theme. -->
+    <style name="ThemeHome" parent="Theme.MaterialComponents.Light.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#DA03A9F4</item>
+        <item name="colorPrimaryDark">#9A2196F3</item>
+        <item name="colorAccent">#2196F3</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+
+
+
+    <!-- Video Player Theme -->
+
+
+</resources>

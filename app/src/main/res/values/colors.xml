@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#03A9F4</color>
+    <color name="purple_700">#2196F3</color>
+    <color name="white">#C3B74A</color>
+
+
+
+    <color name="text_color">#E8000000</color>
+    <color name="background">#EFF3BA</color>
+    <color name="shadow_color_top">#D9EF79</color>
+    <color name="shadow_color_bottom">#F6F6F1</color>
+    <color name="slider_title_background">#45000000</color>
+    <color name="thankYou_title">#CDDC39</color>
+    <color name="thankYou_des">#4CAF50</color>
+
+
+</resources>
